@@ -1,0 +1,11 @@
+tornado
+jsonschema
+ipython
+
+sympy
+numpy
+scipy
+scikit-learn
+
+numexpr
+bottleneck
