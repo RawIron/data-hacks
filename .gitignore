@@ -58,3 +58,7 @@ target/
 
 # Ipython
 .ipynb_checkpoints/
+
+# data files
+*.csv
+*.json
