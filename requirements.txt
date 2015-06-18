@@ -6,6 +6,7 @@ sympy
 numpy
 scipy
 scikit-learn
+seaborn
 
 numexpr
 bottleneck
