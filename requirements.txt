@@ -6,7 +6,9 @@ sympy
 numpy
 scipy
 scikit-learn
+matplotlib
 seaborn
 
 numexpr
 bottleneck
+blaze
