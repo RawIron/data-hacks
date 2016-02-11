@@ -1,11 +1,13 @@
 tornado
 jsonschema
 ipython
+luigi
 
 sympy
 numpy
 scipy
 scikit-learn
+pandas
 matplotlib
 seaborn
 
