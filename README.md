@@ -1,4 +1,4 @@
-# Jupiter Notebooks
+# Jupyter Notebooks
 
 * prototype ML solutions
 * feature engineering
